@@ -51,9 +51,9 @@ export default function About() {
           <h2 className="text-3xl font-bold mb-6 font-display">Meet Our Team</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
-              { name: 'Waheed', role: 'Executive Chef', image: '/image.jpg' },
-              { name: 'Sarmad laghari', role: 'Sous Chef', image: '/sarmad.jpg' },
-              { name: 'Peer bakhsh', role: 'Pastry Chef', image: '/perin.jpg' },
+              { name: 'Victor Romano', role: 'Executive Chef', image: '/victor-romano.jpg' },
+              { name: 'Omar Khalid', role: 'Sous Chef', image: '/omar-khalid.jpg' },
+              { name: 'Sofia Marquez', role: 'Pastry Chef', image: '/sofia-marquez.jpg' },
             ].map((member) => (
               <div key={member.name} className="text-center">
                 <div className="relative w-48 h-48 mx-auto mb-4">

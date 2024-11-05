@@ -14,8 +14,8 @@ const popularDishes = [
 ]
 
 const testimonials = [
-  { name: 'John Doe', comment: 'The best dining experience I\'ve had in years!', rating: 5 },
-  { name: 'Jane Smith', comment: 'Exquisite flavors and impeccable service.', rating: 5 },
+  { name: 'Ethan Miller', comment: 'The best dining experience I\'ve had in years!', rating: 5 },
+  { name: 'Carlos Mendoza', comment: 'Exquisite flavors and impeccable service.', rating: 5 },
   { name: 'Mike Johnson', comment: 'A culinary journey worth taking again and again.', rating: 4 },
 ]
 
@@ -166,7 +166,7 @@ export default function Home() {
       {isMenuVisible && (
         <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
           <div className="bg-white p-8 rounded-lg max-w-md w-full">
-            <h3 className="text-2xl font-bold mb-4">Today&aposs Specials</h3>
+            <h3 className="text-2xl font-bold mb-4">Today&apos;s Specials</h3>
             <ul className="mb-6">
               <li className="mb-2">Truffle Risotto - $22.99</li>
               <li className="mb-2">Seared Scallops - $26.99</li>

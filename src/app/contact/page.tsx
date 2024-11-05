@@ -91,7 +91,7 @@ export default function Contact() {
             <p className="mb-4">
               123 Gourmet Street<br />
               Karachi City, FC 12345<br />
-              Phone: (123) 456-7890<br />
+              Phone: (92) 323-8293-672<br />
               Email: info@gourmetfusion.com
             </p>
             <h3 className="text-xl font-bold mb-2">Hours of Operation</h3>
@@ -102,7 +102,7 @@ export default function Contact() {
             </p>
             <div className="aspect-w-16 aspect-h-9">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1422937950147!2d-73.98731968459391!3d40.74844797932881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sEmpire%20State%20Building!5e0!3m2!1sen!2sus!4v1629814160549!5m2!1sen!2sus"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d925800.5083749388!2d66.49595385!3d24.8607343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33e06651d4bbf%3A0x9cf92f44555a0c23!2sKarachi%2C%20Karachi%20City%2C%20Sindh%2C%20Pakistan!5e0!3m2!1sen!2sus!4v1699718042271!5m2!1sen!2sus"
                 width="600"
                 height="450"
                 style={{ border: 0 }}
