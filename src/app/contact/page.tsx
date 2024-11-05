@@ -90,7 +90,7 @@ export default function Contact() {
             <h2 className="text-2xl font-bold mb-4">Visit Us</h2>
             <p className="mb-4">
               123 Gourmet Street<br />
-              Foodie City, FC 12345<br />
+              Karachi City, FC 12345<br />
               Phone: (123) 456-7890<br />
               Email: info@gourmetfusion.com
             </p>
