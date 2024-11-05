@@ -40,7 +40,7 @@ export default function About() {
             ensuring the freshest flavors while reducing our environmental impact.
           </p>
           <p>
-            Whether you$apos;re joining us for an intimate dinner, a family celebration, 
+            Whether you&#39;re joining us for an intimate dinner, a family celebration, 
             or a corporate event, we strive to make every visit to Gourmet Fusion 
             an unforgettable experience. We invite you to embark on a culinary journey 
             with us and discover the art of fine dining.
@@ -51,9 +51,9 @@ export default function About() {
           <h2 className="text-3xl font-bold mb-6 font-display">Meet Our Team</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
-              { name: 'Maria Rodriguez', role: 'Executive Chef', image: '/chef-maria.jpg' },
-              { name: 'John Smith', role: 'Sous Chef', image: '/chef-john.jpg' },
-              { name: 'Emily Chen', role: 'Pastry Chef', image: '/chef-emily.jpg' },
+              { name: 'Waheed', role: 'Executive Chef', image: '/image.jpg' },
+              { name: 'Sarmad laghari', role: 'Sous Chef', image: '/sarmad.jpg' },
+              { name: 'Peer bakhsh', role: 'Pastry Chef', image: '/perin.jpg' },
             ].map((member) => (
               <div key={member.name} className="text-center">
                 <div className="relative w-48 h-48 mx-auto mb-4">
